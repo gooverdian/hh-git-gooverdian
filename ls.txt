@@ -1,3 +1,7 @@
 README.md
 ls.txt
 project.js
+total 24
+8 -rw-r--r--  1 n.bezdolniy  staff    42  8 ноя 19:10 README.md
+8 -rw-r--r--  1 n.bezdolniy  staff    28 26 ноя 19:11 ls.txt
+8 -rw-r--r--  1 n.bezdolniy  staff  2282  8 ноя 19:10 project.js
